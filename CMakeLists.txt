@@ -5,4 +5,4 @@ project(code)
 set(CXX_STANDARD_REQUIRED ON)
 set(CXX_STANDARD 11)
 
-add_executable(code offer4.cpp)
+add_executable(code offer7.cpp)
